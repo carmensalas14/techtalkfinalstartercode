@@ -1,0 +1,47 @@
+body{
+    background-color:lightpink;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+#smile{
+    height:200px;
+    width:200px;
+    text-align: center;
+}
+#abouMe{
+    background-color:blue;
+}
+
+.Thelist{
+    text-align: center;
+}
+.list{
+    font-style: italic;
+    font-size:20px;
+    
+}
+#thing1{
+    color:red;
+}
+
+#thing2{
+    color:blue;
+}
+
+#thing3{
+    color:purple;
+}
+
+#thing4{
+    color:green;
+}
+
+#inputValue{
+    height:40px;
+    width:200px;
+    font-size:25px;
+}
