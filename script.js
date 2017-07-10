@@ -11,15 +11,15 @@ $( document ).ready(function() {
         
         
         if(inputValue === answer) {
-            $("h3").append("Correct!");
+            $("#answer").append("Correct!");
         }
         
         else if (inputValue === answer2){
-            $("h3").html("Correct!");
+            $("#answer").html("Correct!");
         }
         
         else if (inputValue === answer3) {
-            $("h3").html("Correct!");
+            $("#answer").html("Correct!");
         }
         
         });

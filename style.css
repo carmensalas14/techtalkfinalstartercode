@@ -7,6 +7,24 @@ h1{
     text-align: center;
 }
 
+#col-xs-8{
+    background-color:red;
+    border: solid;
+    height:100px;
+    width:700px;
+    margin:auto;
+}
+
+#col-xs-4{
+background-color:red;
+    border: solid;
+}
+
+.col-xs-12{
+    background-color:purple;
+    border: solid;
+}
+
 #smile{
     height:200px;
     width:200px;
